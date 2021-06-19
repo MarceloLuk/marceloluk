@@ -4,8 +4,6 @@
     </a>
 </div>
 
-<img align="right" src="./imgs/cap.png" width="180px" style="width:0px; height:40px; border: 50px; max-width:50%;">
-
 # ✌ Hello how are you? I hope so... 
 # My name is Luk and I am 30 years old!
 
@@ -18,7 +16,7 @@
     </div>
 </p>
 <br>
-<h2>🤔 Sobre</h2>
+<h2>About</h2>
 <h4>
 I got to know programming when I was 15 years old with the small dream of creating a game, since then I fell in love with the world of programming and I've been looking to improve and learn more every day・Currently focused on developing Mobile and PWA solutions for company <a href="https://github.com/zellotec" alt="Zello tec">@zellotec</a> if you want to follow a little more about my story in the schedule follow on LinkedIn <a href="https://www.linkedin.com/in/marcelo-oliveira-16935437">Click Here</a> to know.
 </h4>
