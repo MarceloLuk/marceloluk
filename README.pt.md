@@ -19,8 +19,7 @@
 <br>
 <h2>Sobre</h2>
 <h4>
-Conheci programação com 15 anos com o pequeno sonho de criar um jogo, desde entao me apaixonei pelo mundo da programação e venho buscando aperfeicoar e aprender mais a cada dia
-・Atualmente focado em desenvolvimento de solucoes Mobile e PWA  para empresa <a href="https://github.com/zellotec" alt="Zello tec">@zellotec</a> se quiser acompanha um pouco mais sobre a minha historia na programacao acompanhe pelo LinkedIn <a href="https://www.linkedin.com/in/marcelo-oliveira-16935437">Clique Aqui</a> para conhecer.
+Conheci programação com 15 anos com o pequeno sonho de criar um jogo, desde então apaixonei-me pelo mundo da programação e venho buscando aperfeiçoar e aprender mais a cada dia ・Atualmente focado em desenvolvimento de soluções Mobile e PWA para empresa <a href="https://github.com/zellotec" alt="Zello tec">@zellotec</a> se quiser acompanhar um pouco mais sobre a minha história na programação acompanhe pelo LinkedIn <a href="https://www.linkedin.com/in/marcelo-oliveira-16935437">Clique Aqui</a> para conhecer.
 </h4>
 
 <div align="center">
