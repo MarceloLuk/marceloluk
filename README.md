@@ -25,7 +25,7 @@ I got to know programming when I was 15 years old with the small dream of creati
     <h2>👤 Contact</h2>
 </div>
 <p align="center">
-    <a href="https://discord.com/users/745705784473551100">
+    <a href="https://discord.com/users/luk#6408">
         <img alt="My Discord" src="https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&message=marceloluk%238639&color=62b4ef">
     </a>
     <a href="https://www.linkedin.com/in/marcelo-oliveira-16935437/">
