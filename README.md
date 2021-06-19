@@ -1,10 +1,10 @@
 <div align="center">
     <a href="https://github.com/MarceloLuk/marceloluk/blob/master/README.pt.md" alt="português">
-        <img alt="portugues" src="https://img.shields.io/static/v1?style=for-the-badge&label=Lang&message=English&color=555555">
+        <img alt="português" src="https://img.shields.io/static/v1?style=for-the-badge&label=Lang&message=Português&color=555555">
     </a>
 </div>
 
-<img align="right" src="./imgs/cap.png" style="width:80px; height:80px; border: 50px; max-width:50%;">
+<img align="right" src="./imgs/cap.png" style="width:40px; height:40px; border: 50px; max-width:50%;">
 
 # ✌ Hello how are you? I hope so... 
 # My name is Luk and I am 30 years old! ![hedgehog]
