@@ -4,7 +4,7 @@
     </a>
 </div>
 
-<img align="right" src="./imgs/cap.png" style="width:80px; height:80px; border: 50px; max-width:100%;">
+<img align="right" src="./imgs/cap.png" style="width:80px; height:80px; border: 50px; max-width:50%;">
 
 # ✌ Hello how are you? I hope so... 
 # My name is Luk and I am 30 years old! ![hedgehog]
