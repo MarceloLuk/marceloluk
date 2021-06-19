@@ -7,7 +7,7 @@
 <img align="right" src="./imgs/cap.png" width="180px" style="width:0px; height:40px; border: 50px; max-width:50%;">
 
 # ✌ Hello how are you? I hope so... 
-# My name is Luk and I am 30 years old! ![hedgehog]
+# My name is Luk and I am 30 years old!
 
 <p align="left">
     <div align="center">
