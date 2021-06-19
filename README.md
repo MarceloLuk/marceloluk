@@ -4,7 +4,7 @@
     </a>
 </div>
 
-# ✌ Hello how are you? I hope so... 
+# Hello how are you? I hope so... 
 # My name is Luk and I am 30 years old!
 
 <p align="left">
