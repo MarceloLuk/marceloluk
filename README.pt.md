@@ -16,7 +16,7 @@
         </a>
     </div>
 </p>
-
+<br>
 <h2>Sobre</h2>
 <h4>
 Conheci programação com 15 anos com o pequeno sonho de criar um jogo, desde entao me apaixonei pelo mundo da programação e venho buscando aperfeicoar e aprender mais a cada dia
