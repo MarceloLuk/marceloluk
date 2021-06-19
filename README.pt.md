@@ -4,10 +4,9 @@
     </a>
 </div>
 
-<img align="right" src="./imgs/cap.png" width="180px" style="width:80px; height:80px; border: 50px; max-width:100%;">
 
-# ✌ Olá, tudo bem? Espero que sim...  
-# Meu nome é Luk e tenho 30 anos! ![hedgehog]
+# Olá, tudo bem? Espero que sim...  
+# Meu nome é Luk e tenho 30 anos!
 
 <p align="left">
     <div align="center">
@@ -18,7 +17,7 @@
     </div>
 </p>
 
-<h2>🤔 Sobre</h2>
+<h2>Sobre</h2>
 <h4>
 Conheci programação com 15 anos com o pequeno sonho de criar um jogo, desde entao me apaixonei pelo mundo da programação e venho buscando aperfeicoar e aprender mais a cada dia
 ・Atualmente focado em desenvolvimento de solucoes Mobile e PWA  para empresa <a href="https://github.com/zellotec" alt="Zello tec">@zellotec</a> se quiser acompanha um pouco mais sobre a minha historia na programacao acompanhe pelo LinkedIn <a href="https://www.linkedin.com/in/marcelo-oliveira-16935437">Clique Aqui</a> para conhecer.
@@ -28,7 +27,7 @@ Conheci programação com 15 anos com o pequeno sonho de criar um jogo, desde en
     <h2>👤 Contact</h2>
 </div>
 <p align="center">
-    <a href="https://discord.com/users/745705784473551100">
+    <a href="https://discord.com/users/luk#64080">
         <img alt="My Discord" src="https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&message=marceloluk%238639&color=62b4ef">
     </a>
     <a href="https://www.linkedin.com/in/marcelo-oliveira-16935437/">
