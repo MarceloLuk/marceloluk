@@ -4,7 +4,7 @@
     </a>
 </div>
 
-<img align="right" src="./imgs/cap.png" style="width:350px; height:350px; border: 50px; max-width:100%;">
+<img align="right" src="./imgs/cap.png" style="width:150px; height:150px; border: 50px; max-width:100%;">
 
 # ✌ Hello how are you? I hope so... 
 # My name is Luk and I am 30 years old! ![hedgehog]
@@ -20,7 +20,7 @@
 
 <h2>🤔 Sobre</h2>
 <h4>
-I got to know programming when I was 15 years old with the small dream of creating a game, since then I fell in love with the world of programming and I've been looking to improve and learn more every day・Currently focused on developing Mobile and PWA solutions for company <a href="https://github.com/zellotec" alt="Zello tec">@zellotec</a> if you want to follow a little more about my story in the schedule follow on LinkedIn<a href="https://www.linkedin.com/in/marcelo-oliveira-16935437">Click Here</a> to know.
+I got to know programming when I was 15 years old with the small dream of creating a game, since then I fell in love with the world of programming and I've been looking to improve and learn more every day・Currently focused on developing Mobile and PWA solutions for company <a href="https://github.com/zellotec" alt="Zello tec">@zellotec</a> if you want to follow a little more about my story in the schedule follow on LinkedIn <a href="https://www.linkedin.com/in/marcelo-oliveira-16935437">Click Here</a> to know.
 </h4>
 
 <div align="center">
@@ -44,11 +44,11 @@ I got to know programming when I was 15 years old with the small dream of creati
 <div align="center">
     <h2>📑 Technologies and Tools</h2>
     <p align="center">
-        <img alt="PHP" src="https://img.shields.io/badge/PHP-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+        <img alt="PHP" src="https://img.shields.io/badge/PHP-%23430098.svg?style=for-the-badge&logo=php&logoColor=white"/>
         <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-        <img alt="React" src="https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-        <img alt="React-native" src="https://img.shields.io/badge/reactnative-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
-        <img alt="Ionic" src="https://img.shields.io/badge/ionic-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+        <img alt="React" src="https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white"/>
+        <img alt="React-native" src="https://img.shields.io/badge/reactnative-%23000000.svg?style=for-the-badge&logo=react&logoColor=white"/>
+        <img alt="Ionic" src="https://img.shields.io/badge/ionic-%23000000.svg?style=for-the-badge&logo=ionic&logoColor=white"/>
         <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
         <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
         <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -64,12 +64,12 @@ I got to know programming when I was 15 years old with the small dream of creati
         <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
         <img alt="Glitch" src="https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white"/>
         <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-        <img alt="AWS Console" src="https://img.shields.io/badge/AWS-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-        <img alt="Linux" src="https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+        <img alt="AWS Console" src="https://img.shields.io/badge/AWS-%23F05033.svg?style=for-the-badge&logo=aws&logoColor=white"/>
+        <img alt="Linux" src="https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white" />
         <img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" />
         <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
         <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
-        <img alt="MacOS" src="https://img.shields.io/badge/MacOS-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+        <img alt="MacOS" src="https://img.shields.io/badge/MacOS-0078D6?style=for-the-badge&logo=mac&logoColor=white" />
     </p>
 </div>
 
