@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/MarceloLuk/marceloluk/blob/master/README.pt.md" alt="português">
-        <img alt="português" src="https://img.shields.io/static/v1?style=for-the-badge&label=Lang&message=Português&color=555555">
+        <img alt="português" src="https://img.shields.io/static/v1?style=for-the-badge&label=Lang&message=Portugues&color=555555">
     </a>
 </div>
 
