@@ -4,7 +4,7 @@
     </a>
 </div>
 
-<img align="right" src="./imgs/cap.png" style="width:150px; height:150px; border: 50px; max-width:100%;">
+<img align="right" src="./imgs/cap.png" style="width:80px; height:80px; border: 50px; max-width:100%;">
 
 # ✌ Hello how are you? I hope so... 
 # My name is Luk and I am 30 years old! ![hedgehog]
@@ -45,7 +45,7 @@ I got to know programming when I was 15 years old with the small dream of creati
     <h2>📑 Technologies and Tools</h2>
     <p align="center">
         <img alt="PHP" src="https://img.shields.io/badge/PHP-%23430098.svg?style=for-the-badge&logo=php&logoColor=white"/>
-        <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+        <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node&logoColor=white"/>
         <img alt="React" src="https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white"/>
         <img alt="React-native" src="https://img.shields.io/badge/reactnative-%23000000.svg?style=for-the-badge&logo=react&logoColor=white"/>
         <img alt="Ionic" src="https://img.shields.io/badge/ionic-%23000000.svg?style=for-the-badge&logo=ionic&logoColor=white"/>
